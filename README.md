@@ -1,3 +1,12 @@
+# Student Notes 
+
+Dear Reviewer,
+Here I am ensuring the availability of the following link i submitted for my project, please review this project.
+#### GitHub Repository (Capstone Project) Link:
+
+                https://github.com/abhishekpandeyIT/CapstoneProject.git
+
+
 # CapstoneProject
  Covid-19 Outbreak Prediction Using Machine Learning using the Datasets upto 25th March.
 
