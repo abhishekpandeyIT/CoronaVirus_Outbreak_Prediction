@@ -2,10 +2,16 @@
 
 Dear Reviewer,
 Here I am ensuring the availability of the following link i submitted for my project, please review this project.
+
+#### My Blog Post (Dealing Pandemic with Data Science) Link:
+
+                https://medium.com/@Abhishe55410508/dealing-pandemic-with-data-science-133a1e0e7577
+
 #### GitHub Repository (Capstone Project) Link:
 
                 https://github.com/abhishekpandeyIT/CapstoneProject.git
 
+Thanking You and praying for your Good Health and safety in this Hard Time.
 
 # CapstoneProject
  Covid-19 Outbreak Prediction Using Machine Learning using the Datasets upto 25th March.
@@ -14,7 +20,7 @@ Here I am ensuring the availability of the following link i submitted for my pro
 
 We need a strong model that predicts how the virus could spread across different countries and regions. The goal of this task is to build a model that predicts the spread of the virus in the next 7 days.
 
-This Model prediction might not be 100% accurate but it predict the flow of spread of virus infection.
+This Model prediction might not be 100% accurate but it can predict the rate of spread of virus infection with good accuracy.
 
 # Libraries used: 
 
